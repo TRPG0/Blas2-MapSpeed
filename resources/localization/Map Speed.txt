@@ -1,0 +1,4 @@
+lang: en
+speed: Speed: *x
+speedup: Faster
+speeddown: Slower
